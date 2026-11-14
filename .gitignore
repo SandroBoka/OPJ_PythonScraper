@@ -10,6 +10,9 @@ env/
 ENV/
 .python-version
 
+# Saved Chrome session used by the Reddit scraper
+.reddit_chrome/
+
 # Python packaging and build artifacts
 build/
 dist/
